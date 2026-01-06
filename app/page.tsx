@@ -5,7 +5,7 @@ import { useEffect } from "react";
 import ReactGA from "react-ga4";
 export default function Home() {
   useEffect(() => {
-    ReactGA.initialize("G-RVHNCRW1G8");
+    ReactGA.initialize("G-J2TKEWW1VL");
   }, []);
   const x = () => {
     console.log("xxx");
